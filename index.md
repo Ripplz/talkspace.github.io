@@ -1,11 +1,11 @@
-#Talkspace Privacy Policy
+# Talkspace Privacy Policy
 
  Rest assured, we care about your Privacy and would do nothing to intentionally compromise it.
 
- ##Information We Collect
+ ## Information We Collect
 
  Talkspace receives or collects information when we operate and provide our Services, including when you install, access, or use our Services.
- ###Information You Provide
+ ### Information You Provide
 
  - **Your Account Information.** You provide your mobile phone number to create a Talkspace account. You provide us the phone numbers in your mobile address book on a regular basis, including those of both the users of our Services and your other contacts. You confirm you are authorized to provide us such numbers. You may also add other information to your account, such as a profile name, profile picture, and status message.
 
@@ -13,17 +13,17 @@
 
 - **Customer Support.** You may provide us with information related to your use of our Services, including copies of your messages, and how to contact you so we can provide you customer support. For example, you may send us an email with information relating to our app performance or other issues.
 
-###Automatically Collected Information
+### Automatically Collected Information
 
 - **Usage and Log Information.** We collect service-related, diagnostic, and performance information. This includes information about your activity (such as how you use our Services, how you interact with others using our Services, and the like), log files, and diagnostic, crash, website, and performance logs and reports.
 
 - **Status Information.** We collect information about your online and status message changes on our Services, such as whether you are online (your “online status”), when you last used our Services (your “last seen status”), and when you last updated your status message.
 
-###Third-Party Information
+### Third-Party Information
 
 - **Information Others Provide About You.** We receive information other people provide us, which may include information about you. For example, when other users you know use our Services, they may provide your phone number from their mobile address book (just as you may provide theirs), or they may send you a message, send messages to groups to which you belong, or call you.
 
-##How We Use Information
+## How We Use Information
 
 We use all the information we have to help us operate, provide, improve, understand, customize, support, and market our Services.
 
@@ -33,7 +33,7 @@ We use all the information we have to help us operate, provide, improve, underst
 
 - **No Third-Party Banner Ads.** We do not allow third-party banner ads on Talkspace. We have no intention to introduce them, but if we ever do, we will update this policy.
 
-##Information You And We Share
+## Information You And We Share
 
 You share your information as you use and communicate through our Services, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services.
 
